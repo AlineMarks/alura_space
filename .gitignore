@@ -1,0 +1,12 @@
+# created by virtualenv automatically
+Lib/
+Scripts/
+pyvenv.cfg
+base_statics/global/image/bootstrap-icons/
+
+# DJANGO >>>>>>>>>>>>>>>>>>>>>
+*.log
+*.pot
+*.pyc
+*.env
+__pycache__
